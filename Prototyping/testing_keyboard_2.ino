@@ -5,8 +5,6 @@
  * 1. Base (Layer 0)
  * 2. Shifted (Layer 1) - Diaktifkan oleh tombol R4/C2
  * 3. Fn/S-Key (Layer 2) - Diaktifkan oleh tombol R4/C3
- *
- * oleh: Lia (Final Logic Fix untuk Mukti)
  */
 
 // 1. IMPORT LIBRARY-NYA
