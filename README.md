@@ -2,8 +2,8 @@
 My journey building a wireless split keyboard from scratch using ESP32 Dev Module. Includes custom firmware for matrix scanning and layer management.
 ## 📝 To-Do List
 - [x] Protoyping the keyboard using breadboard n pushbutton
-- [ ] Connecting left-right side
-- [ ] Implement debouncing logic.
+- [x] Connecting left-right side
+- [x] Implement debouncing logic.
 - [ ] Add battery level monitoring over BLE.
 - [ ] making the PCB file
 - [ ] Design 3D printable case.
