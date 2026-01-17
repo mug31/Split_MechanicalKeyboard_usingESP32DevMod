@@ -5,7 +5,7 @@ My journey building a wireless split keyboard from scratch using ESP32 Dev Modul
 - [x] Connecting left-right side
 - [x] Implement debouncing logic.
 - [ ] Add battery level monitoring over BLE.
-- [ ] making the PCB file
+- [x] making the PCB file
 - [ ] Design 3D printable case.
 
 ![Tampilan Prototipe](https://github.com/mug31/Split_MechanicalKeyboard_usingESP32DevMod/blob/main/images/1763949235553.jpeg)
