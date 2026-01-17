@@ -10,3 +10,11 @@ My journey building a wireless split keyboard from scratch using ESP32 Dev Modul
 
 ![Tampilan Prototipe](https://github.com/mug31/Split_MechanicalKeyboard_usingESP32DevMod/blob/main/images/1763949235553.jpeg)
 *This is the prototype using breadboard-pushbutton, and it was using the matrix 4x5.*
+
+This is how the pcb looks like
+![The Pcb file looks like](https://github.com/mug31/Split_MechanicalKeyboard_usingESP32DevMod/blob/main/images/Screenshot%202026-01-17%20155550.png)
+*Left side*
+![The Pcb file looks like](https://github.com/mug31/Split_MechanicalKeyboard_usingESP32DevMod/blob/main/images/Screenshot%202026-01-17%20155622.png)
+*Right side*
+![The Pcb file looks like](https://github.com/mug31/Split_MechanicalKeyboard_usingESP32DevMod/blob/main/images/Screenshot%202026-01-17%20155523.png)
+*Plate for the switch;*
